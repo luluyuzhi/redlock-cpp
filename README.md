@@ -1,6 +1,9 @@
 redlock-cpp
 ===========
 
+
+[关于红锁的一些问题](http://www.redis.cn/topics/distlock.html)
+
 C++实现redis分布式锁
 redlock-cpp - Redis distributed locks in C++
 
