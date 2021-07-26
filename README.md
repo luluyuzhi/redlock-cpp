@@ -1,7 +1,7 @@
 redlock-cpp
 ===========
 
-？ 疑问 还有哪些锁是分布式锁？
+？ 疑问 还有哪些锁是自动释放锁的分布式锁？
 
 [关于红锁的一些问题](http://www.redis.cn/topics/distlock.html)
 
